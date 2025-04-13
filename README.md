@@ -25,6 +25,12 @@ _Details:_ The ARQA dataset encompasses a wide spectrum of AR scenarios, showcas
 
 <p align="center"><img width="1000" alt="Key characteristics of the virtual and real objects in the ARQA dataset." src="https://github.com/.png"></p>
 
+# Small-scale datasets
+
+# Rule-based method mapping function and parameters
+
+
+
 <p align="center"><img width="407" alt="Examples of key characteristics of the virtual and real objects in the ARQA dataset." src="https://github.com/.png"></p>
 <p align="center">Figure 1. Examples of key characteristics of the virtual and real objects in the ARQA dataset.</p> 
 
