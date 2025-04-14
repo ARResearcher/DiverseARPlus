@@ -1,5 +1,5 @@
 # ARQA Dataset
-This repository accompanies the paper "_Bridging Human Perception and Automated Evaluation: Vision-Language Model-Based Visual Quality Assessment of AR-Generated Scenes_", submitted to ISMAR 2025. It introduces **ARQA**, a dataset of 1107 background and AR image pairs collected from 4 AR applications (Apple Vision Pro, HoloLens and 2 Android phones) specifically created for this project. 
+This repository accompanies the paper "_Bridging Human Perception and Automated Evaluation: Vision-Language Model-Based Visual Quality Assessment of AR-Generated Scenes_", submitted to ISMAR 2025. It introduces **ARQA**, a dataset of 1107 background and AR image pairs collected from 4 AR applications (Apple Vision Pro, HoloLens 2 and 2 Android phones) specifically created for this project. 
 
 # Dataset
 The full ARQA dataset can be downloaded here: [https://](https://) The dataset follows the hierarchical file structure shown below:
