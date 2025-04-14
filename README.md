@@ -50,3 +50,5 @@ _Creation:_ We curated small-scale datasets (released alongside the ARQA dataset
 
 # Rule-based method mapping function and parameters
 
+We provide the code of our factor estimation functions, the mapping function to map the estimated values to the quality scores, and the parameters for each function in the Rule_mapping_function.ipynb
+
