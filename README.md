@@ -1,5 +1,5 @@
 # DiverseAR+ Dataset
-This repository introduces **DiverseAR+**, a dataset of 1405 background and AR image pairs collected from 4 AR devices (Apple Vision Pro, HoloLens 2 and 2 Android phones) and public websites. 
+This repository introduces **DiverseAR+**, a dataset of 1405 AR images collected from various platforms and scenarios. 
 
 # Dataset
 The samples of the DiverseAR+ dataset can be found in the dataset folder. The full DiverseAR+ dataset can be downloaded from ()[]. The dataset follows the hierarchical file structure shown below:
@@ -35,7 +35,7 @@ dataset
 │   ...
 ```
 
-_Creation:_ The DiverseAR+ dataset comprises 1,405 AR image along with the associated metadata. Figure 1 presents representative AR examples from the DiverseAR+, illustrating a range of quality levels across all visual factors. We collected the samples from diverse sources and environments using a custom-developed AR application on each device. Specifically, we captured 297 samples across various settings, including bedrooms, living rooms, study rooms, kitchens, and simulated museum environments, in which virtual objects were overlaid onto static museum images; 135 samples by HoloLens 2 in medical settings using virtual anatomical models. In addition, we recorded complementary metadata, including depth information (for Android devices and HoloLens 2) and the pose data of the camera, headset, virtual object, and virtual light in the scene to support further analysis. 
+_Creation:_ The DiverseAR+ dataset comprises 1,405 AR images along with the associated metadata. Figure 1 presents representative AR examples from the DiverseAR+, illustrating a range of quality levels across all visual factors. We collected the samples from diverse sources and environments using commercial and custom-developed AR applications. Specifically, we captured 320 samples by Apple Vision Pro and 826 samples by Android phones (Galaxy S25 and Pixel 7) across various settings, including bedrooms, living rooms, study rooms, kitchens, and simulated museum environments, in which virtual objects were overlaid onto static museum images; 135 samples by HoloLens 2 in medical settings using virtual anatomical models; and 124 samples from external sources (29 public websites, 53 commercial apps, 42 prior studies). In addition, we recorded complementary metadata, including depth information (for Android devices and HoloLens 2) and the pose data of the camera, headset, virtual object, and virtual light in the scene to support further analysis. 
 
 _Details:_ Each image features a single virtual object selected from a total of 29 classes. These span a range of domains including: medical anatomies of a human body (e.g., eye, brain, bone, liver, heart), dynamic, user-manipulable objects (e.g., basketball, football, glove), and stationary objects (e.g., chair, can, box, table, etc.). The dataset captures a diverse range of visual quality statuses across 3 factors, recognized as key dimensions of photorealistic coherence and user safety in AR: **shadow realism, floating plausibility, intersection coherence**.
 
