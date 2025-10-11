@@ -2,7 +2,7 @@
 This repository introduces **DiverseAR+**, a dataset of 1405 AR images collected from various platforms and scenarios. 
 
 # Dataset
-The samples of the DiverseAR+ dataset can be found in the dataset folder. The full DiverseAR+ dataset can be downloaded from ()[]. The dataset follows the hierarchical file structure shown below:
+The samples of the DiverseAR+ dataset can be found in the dataset folder. The full DiverseAR+ dataset can be downloaded from [Hugging Face](https://huggingface.co/datasets/linlinlinyeah/DiverseARPlus/tree/main/dataset). The dataset follows the hierarchical file structure shown below:
 ```
 dataset
 └───diverseAR_images
