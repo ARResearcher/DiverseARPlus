@@ -49,7 +49,7 @@ Please cite the following paper in your publications if the dataset helps your r
       title={Probing the Augmented Reality Scene Analysis Capabilities of Large Multimodal Models: {T}oward Reliable Real-Time Assessment Solutions },
       author={Duan, Lin and Elias, Rotondo and Yanming, Xiu and Sangjun, Eom and Ryan, Chen and Conrad, Li and Yuhe, Hu and Gorlatova, Maria},
       journal={IEEE Internet Computing},
-      year={2017},
+      year={2025},
       publisher={IEEE}
     }
 
