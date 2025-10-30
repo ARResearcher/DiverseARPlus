@@ -19,7 +19,7 @@ The DiverseAR+ dataset comprises 1,405 AR images along with the associated metad
 
 ## 2. <span id="2"> Dataset Composition</span>
 
-Each image features a single virtual object selected from a total of 29 classes. These span a range of domains including: medical anatomies of a human body (e.g., eye, brain, bone, liver, heart), dynamic, user-manipulable objects (e.g., basketball, football, glove), and stationary objects (e.g., chair, can, box, table, etc.). The dataset captures a diverse range of visual quality statuses across 7 factors, recognized as key dimensions of photorealistic coherence and user safety in AR: **shadow realism, light direction coherence, light intensity coherence, intersection coherence, floating plausibility, size appropriateness, occlusion appropriateness**.
+Each image features a single virtual object selected from a total of 29 classes. These span a range of domains including: medical anatomies of a human body (e.g., eye, brain, bone, liver, heart), dynamic, user-manipulable objects (e.g., basketball, football, glove), and stationary objects (e.g., chair, can, box, table, etc.). The dataset captures a diverse range of visual quality statuses across 7 factors, recognized as key dimensions of photorealistic coherence and user safety in AR: **shadow realism, light direction coherence, light intensity coherence, intersection coherence, floating plausibility, size appropriateness, occlusion appropriateness**. In our paper, only 3 key factors (shadow realism, floating plausibility, and size appropriateness) are discussed.
 
 ## 3. <span id="3"> Hierarchical Structure of the Datasets</span>
 The dataset follows the hierarchical file structure shown below:
